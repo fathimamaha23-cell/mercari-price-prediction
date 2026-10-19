@@ -1,0 +1,10 @@
+data/*.tsv
+data/processed/
+models/lgbm_pipeline.joblib
+mlflow.db
+mlruns/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+data/*.7z
+data/*.zip

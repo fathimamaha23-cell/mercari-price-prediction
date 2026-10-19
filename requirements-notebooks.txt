@@ -1,0 +1,9 @@
+# Extra packages needed only to re-run the Jupyter notebooks
+# (EDA plots, SHAP / LIME explanations and MLflow tracking).
+# Install after requirements.txt:  python -m pip install -r requirements-notebooks.txt
+matplotlib==3.11.2
+mlflow==3.17.1
+seaborn
+shap
+lime
+jupyterlab

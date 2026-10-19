@@ -1,0 +1,948 @@
+cat_main,cat_sub1,cat_sub2
+Beauty,Bath & Body,Bath
+Beauty,Bath & Body,Bathing Accessories
+Beauty,Bath & Body,Cleansers
+Beauty,Bath & Body,Other
+Beauty,Bath & Body,Scrubs & Body Treatments
+Beauty,Bath & Body,Sets
+Beauty,Fragrance,Candles & Home Scents
+Beauty,Fragrance,Kids
+Beauty,Fragrance,Men
+Beauty,Fragrance,Other
+Beauty,Fragrance,Sets
+Beauty,Fragrance,Women
+Beauty,Hair Care,Conditioners
+Beauty,Hair Care,Hair & Scalp Treatments
+Beauty,Hair Care,Hair Color
+Beauty,Hair Care,Hair Loss Products
+Beauty,Hair Care,Other
+Beauty,Hair Care,Shampoo & Conditioner Sets
+Beauty,Hair Care,Shampoo Plus Conditioner
+Beauty,Hair Care,Shampoos
+Beauty,Hair Care,Styling Products
+Beauty,Hair Care,Styling Tools
+Beauty,Makeup,Body
+Beauty,Makeup,Brushes & Applicators
+Beauty,Makeup,Eyes
+Beauty,Makeup,Face
+Beauty,Makeup,Lips
+Beauty,Makeup,Makeup Palettes
+Beauty,Makeup,Makeup Remover
+Beauty,Makeup,Makeup Sets
+Beauty,Makeup,Nails
+Beauty,Makeup,Other
+Beauty,Other,Other
+Beauty,Skin Care,Body
+Beauty,Skin Care,Eyes
+Beauty,Skin Care,Face
+Beauty,Skin Care,Feet
+Beauty,Skin Care,Hands & Nails
+Beauty,Skin Care,Lips
+Beauty,Skin Care,Maternity
+Beauty,Skin Care,Other
+Beauty,Skin Care,Sets & Kits
+Beauty,Skin Care,Sun
+Beauty,Tools & Accessories,Bags & Cases
+Beauty,Tools & Accessories,Bathing Accessories
+Beauty,Tools & Accessories,Epilators
+Beauty,Tools & Accessories,Hair Styling Tools
+Beauty,Tools & Accessories,Makeup Brushes & Tools
+Beauty,Tools & Accessories,Mirrors
+Beauty,Tools & Accessories,Nail Tools
+Beauty,Tools & Accessories,Other
+Beauty,Tools & Accessories,Toiletry Kits
+Beauty,Tools & Accessories,Tweezers
+Beauty,Tools & Accessories,Waxing
+Electronics,Cameras & Photography,Binoculars & Telescopes
+Electronics,Cameras & Photography,Camcorders
+Electronics,Cameras & Photography,Camera & Photo Accessories
+Electronics,Cameras & Photography,Digital Cameras
+Electronics,Cameras & Photography,Film Photography
+Electronics,Cameras & Photography,Flashes & Flash Accessories
+Electronics,Cameras & Photography,Lenses & Filters
+Electronics,Cameras & Photography,Lighting & Studio
+Electronics,Cameras & Photography,Other
+Electronics,Cameras & Photography,Tripods & Supports
+Electronics,"Car Audio, Video & GPS",Car Speakers & Systems
+Electronics,"Car Audio, Video & GPS",Car Stereos & Components
+Electronics,"Car Audio, Video & GPS",Car Subwoofers
+Electronics,"Car Audio, Video & GPS",Car Video
+Electronics,"Car Audio, Video & GPS",GPS Accessories & Mounts
+Electronics,"Car Audio, Video & GPS",GPS Units & Equipment
+Electronics,"Car Audio, Video & GPS",Other Accessories
+Electronics,Cell Phones & Accessories,Batteries
+Electronics,Cell Phones & Accessories,Cables & Adapters
+Electronics,Cell Phones & Accessories,"Cases, Covers & Skins"
+Electronics,Cell Phones & Accessories,Cell Phone Accessories
+Electronics,Cell Phones & Accessories,Cell Phones & Smartphones
+Electronics,Cell Phones & Accessories,Chargers & Cradles
+Electronics,Cell Phones & Accessories,Headsets
+Electronics,Cell Phones & Accessories,Other
+Electronics,Cell Phones & Accessories,Screen Protectors
+Electronics,Computers & Tablets,Components & Parts
+Electronics,Computers & Tablets,Desktops & All-In-Ones
+Electronics,Computers & Tablets,"Drives, Storage & Media"
+Electronics,Computers & Tablets,Laptops & Netbooks
+Electronics,Computers & Tablets,Networking & Connectivity
+Electronics,Computers & Tablets,Other
+Electronics,Computers & Tablets,"Printers, Scanners & Supplies"
+Electronics,Computers & Tablets,iPad/Tablet/eBook Access
+Electronics,Computers & Tablets,iPad/Tablet/eBook Readers
+Electronics,Media,Blu-Ray
+Electronics,Media,CD
+Electronics,Media,DVD
+Electronics,Media,Other
+Electronics,Media,VHS
+Electronics,Other,Other
+Electronics,"TV, Audio & Surveillance",DVD & Blu-ray Players
+Electronics,"TV, Audio & Surveillance",Gadgets
+Electronics,"TV, Audio & Surveillance",Headphones
+Electronics,"TV, Audio & Surveillance",Home Audio
+Electronics,"TV, Audio & Surveillance",Home Speakers & Subwoofers
+Electronics,"TV, Audio & Surveillance",Home Surveillance
+Electronics,"TV, Audio & Surveillance",Portable Audio & Accessories
+Electronics,"TV, Audio & Surveillance",Televisions
+Electronics,Video Games & Consoles,Accessories
+Electronics,Video Games & Consoles,Consoles
+Electronics,Video Games & Consoles,Games
+Electronics,Video Games & Consoles,Replacement Parts & Tools
+Electronics,Video Games & Consoles,Strategy Guides
+Electronics,Video Games & Consoles,Video Gaming Merchandise
+Handmade,Accessories,Apron
+Handmade,Accessories,Charm
+Handmade,Accessories,Gloves
+Handmade,Accessories,Hair
+Handmade,Accessories,Hat
+Handmade,Accessories,Keychain
+Handmade,Accessories,Lanyard
+Handmade,Accessories,Leg Warmers
+Handmade,Accessories,Men
+Handmade,Accessories,Other
+Handmade,Accessories,Patch
+Handmade,Accessories,Pin
+Handmade,Accessories,Pinback Button
+Handmade,Accessories,Scarf
+Handmade,Accessories,Wallet
+Handmade,Accessories,Women
+Handmade,Art,Drawings
+Handmade,Art,Other
+Handmade,Art,Painting
+Handmade,Art,Photography
+Handmade,Art,Print
+Handmade,Art,Printmaking
+Handmade,Bags and Purses,Backpack
+Handmade,Bags and Purses,Hip Bag
+Handmade,Bags and Purses,Pouch
+Handmade,Bags and Purses,Purse
+Handmade,Bags and Purses,Tote
+Handmade,Bags and Purses,Wristlet
+Handmade,Books and Zines,Book
+Handmade,Books and Zines,Bookmark
+Handmade,Candles,Other
+Handmade,Ceramics and Pottery,Supplies
+Handmade,Children,Accessories
+Handmade,Children,Art
+Handmade,Children,Baby
+Handmade,Children,Clothing
+Handmade,Children,Other
+Handmade,Children,Toddler
+Handmade,Children,Toy
+Handmade,Clothing,Corset
+Handmade,Clothing,Costume
+Handmade,Clothing,Lingerie
+Handmade,Clothing,Shirt
+Handmade,Clothing,Tshirt
+Handmade,Clothing,Women
+Handmade,Crochet,Accessories
+Handmade,Crochet,Bags and Purses
+Handmade,Crochet,Hat
+Handmade,Crochet,Housewares
+Handmade,Crochet,Other
+Handmade,Crochet,Supplies
+Handmade,Dolls and Miniatures,Art Doll
+Handmade,Dolls and Miniatures,Artist Bears
+Handmade,Dolls and Miniatures,Fashion Dolls Apparel
+Handmade,Dolls and Miniatures,Figurines
+Handmade,Dolls and Miniatures,Human Figure Doll
+Handmade,Dolls and Miniatures,Other
+Handmade,Dolls and Miniatures,Scale Models
+Handmade,Geekery,Accessory
+Handmade,Glass,Bottles
+Handmade,Glass,Bowls
+Handmade,Glass,Glassware
+Handmade,Glass,Ornaments
+Handmade,Glass,Sculptures
+Handmade,Glass,Stained Glass
+Handmade,Glass,Supplies
+Handmade,Holidays,Christmas
+Handmade,Holidays,Halloween
+Handmade,Holidays,Valentine
+Handmade,Housewares,Home Decor
+Handmade,Housewares,Kitchen
+Handmade,Housewares,Magnets
+Handmade,Housewares,Pillows
+Handmade,Housewares,Wall Decor
+Handmade,Jewelry,Jewelry
+Handmade,Jewelry,Music
+Handmade,Knitting,Knitting Supplies
+Handmade,Music,Equipment
+Handmade,Music,Instrument
+Handmade,Music,Other
+Handmade,Music,Poster
+Handmade,Music,Tape
+Handmade,Music,Vinyl
+Handmade,Needlecraft,Accessories
+Handmade,Needlecraft,Cross Stitch
+Handmade,Needlecraft,Embroidery
+Handmade,Needlecraft,Other
+Handmade,Needlecraft,Pillow
+Handmade,Needlecraft,Supplies
+Handmade,Other,Other
+Handmade,Others,Custom
+Handmade,Others,Magic
+Handmade,Others,Other
+Handmade,Others,Personalized
+Handmade,Others,Religious
+Handmade,Paper Goods,Bookmark
+Handmade,Paper Goods,Calendar
+Handmade,Paper Goods,Cards
+Handmade,Paper Goods,Gift Wrap
+Handmade,Paper Goods,Journal
+Handmade,Paper Goods,Notebook
+Handmade,Paper Goods,Other
+Handmade,Paper Goods,Papermaking
+Handmade,Paper Goods,Scrapbooking
+Handmade,Paper Goods,Stationery
+Handmade,Paper Goods,Sticker
+Handmade,Paper Goods,Tag
+Handmade,Patterns,Handmade
+Handmade,Patterns,Sewing
+Handmade,Pets,Accessories
+Handmade,Pets,Bowl
+Handmade,Pets,Clothing
+Handmade,Pets,Collar
+Handmade,Pets,Pet Lover
+Handmade,Toys,Food
+Handmade,Toys,Other
+Handmade,Weddings,Accessories
+Handmade,Weddings,Cake Toppers
+Handmade,Weddings,Clothing
+Handmade,Weddings,Decorations
+Handmade,Weddings,Favors
+Handmade,Weddings,Invitations
+Handmade,Weddings,Jewelry
+Handmade,Weddings,Men
+Handmade,Woodworking,Home Decor
+Handmade,Woodworking,Jewelry
+Handmade,Woodworking,Other
+Handmade,Woodworking,Signs
+Handmade,Woodworking,Toys
+Home,Artwork,Drawings
+Home,Artwork,Other
+Home,Artwork,Paintings
+Home,Artwork,Photographs
+Home,Artwork,Posters & Prints
+Home,Bath,Bathroom Accessories
+Home,Bath,Bathroom Furniture Sets
+Home,Bath,Towels
+Home,Bedding,Bed Pillows
+Home,Bedding,Bedspreads & Coverlets
+Home,Bedding,Blankets & Throws
+Home,Bedding,Comforters & Sets
+Home,Bedding,"Decorative Pillows, Inserts & Covers"
+Home,Bedding,Duvet Covers & Sets
+Home,Bedding,Feather Beds
+Home,Bedding,Inflatable Beds
+Home,Bedding,Mattress Pads
+Home,Bedding,Quilts
+Home,Bedding,"Shams, Bed Skirts & Bed Frame Draperies"
+Home,Bedding,Sheets & Pillowcases
+Home,Cleaning Supplies,Air Fresheners
+Home,Cleaning Supplies,Gloves
+Home,Cleaning Supplies,Household Cleaners
+Home,Cleaning Supplies,Jewelry Boxes & Organizers
+Home,Cleaning Supplies,Mopping
+Home,Cleaning Supplies,Other
+Home,Cleaning Supplies,Paper Towels
+Home,Cleaning Supplies,Trash Bags
+Home,Furniture,Bedroom Furniture
+Home,Furniture,Home Entertainment Furniture
+Home,Furniture,Living Room Furniture
+Home,Furniture,Other
+Home,Home Appliances,Air Conditioners
+Home,Home Appliances,Air Purifiers
+Home,Home Appliances,Fans
+Home,Home Appliances,Garment Steamers
+Home,Home Appliances,Irons & Ironing Boards
+Home,Home Appliances,Kitchen Appliances
+Home,Home Appliances,Refrigerators
+Home,Home Appliances,Space Heaters
+Home,Home Appliances,Vacuums & Floor Care
+Home,Home Appliances,Washers & Dryers
+Home,Home Appliances,"Wine, Beer & Beverage Coolers"
+Home,Home Décor,Area Rugs & Pads
+Home,Home Décor,Baskets
+Home,Home Décor,Candles & Holders
+Home,Home Décor,Clocks
+Home,Home Décor,Decorative Pillows
+Home,Home Décor,Home Décor Accents
+Home,Home Décor,Home Fragrance
+Home,Home Décor,Lamps& Accessories
+Home,Home Décor,Other
+Home,Home Décor,Photo Albums & Frames
+Home,Home Décor,Slipcovers
+Home,Home Décor,Tapestries
+Home,Home Décor,Vases
+Home,Home Décor,Window Treatments
+Home,Kids' Home Store,Kids' Bedding
+Home,Kids' Home Store,Kids' Furniture
+Home,Kids' Home Store,Kids' Room Décor
+Home,Kids' Home Store,Other
+Home,Kitchen & Dining,Bakeware
+Home,Kitchen & Dining,Coffee & Tea Accessories
+Home,Kitchen & Dining,Cookware
+Home,Kitchen & Dining,Dining & Entertaining
+Home,Kitchen & Dining,Food Service Equipment & Supplies
+Home,Kitchen & Dining,Home Brewing & Wine Making
+Home,Kitchen & Dining,Kitchen & Table Linens
+Home,Kitchen & Dining,Kitchen Knives & Cutlery Accessories
+Home,Kitchen & Dining,Kitchen Utensils & Gadgets
+Home,Kitchen & Dining,Other
+Home,Kitchen & Dining,Small Appliances
+Home,Kitchen & Dining,Storage & Organization
+Home,Kitchen & Dining,Water Coolers & Filters
+Home,Kitchen & Dining,Wine Accessories
+Home,Other,Other
+Home,Seasonal Décor,Birthday
+Home,Seasonal Décor,Christmas
+Home,Seasonal Décor,Easter
+Home,Seasonal Décor,Halloween
+Home,Seasonal Décor,Hanukkah
+Home,Seasonal Décor,New Year's
+Home,Seasonal Décor,Other
+Home,Seasonal Décor,St Patrick's
+Home,Seasonal Décor,Thanksgiving
+Home,Seasonal Décor,Valentine
+Home,Storage & Organization,Baskets & Bins
+Home,Storage & Organization,Bathroom Storage & Organization
+Home,Storage & Organization,Clothing & Closet Storage
+Home,Storage & Organization,Garage Storage & Organization
+Home,Storage & Organization,Jewelry Boxes & Organizers
+Home,Storage & Organization,Kitchen Storage & Organization
+Home,Storage & Organization,Laundry Storage & Organization
+Home,Storage & Organization,Other
+Home,Storage & Organization,"Racks, Shelves & Drawers"
+Kids,Bathing & Skin Care,Bathing Tubs & Seats
+Kids,Bathing & Skin Care,Bathroom Safety
+Kids,Bathing & Skin Care,Conditioners
+Kids,Bathing & Skin Care,Grooming & Healthcare Kits
+Kids,Bathing & Skin Care,Other
+Kids,Bathing & Skin Care,Shampoo
+Kids,Bathing & Skin Care,Skin Care
+Kids,Bathing & Skin Care,Soaps & Cleansers
+Kids,Bathing & Skin Care,Washcloths & Towels
+Kids,Boys (4+),Accessories
+Kids,Boys (4+),Bottoms
+Kids,Boys (4+),Coats & Jackets
+Kids,Boys (4+),Other
+Kids,Boys (4+),Shoes
+Kids,Boys (4+),Swimwear
+Kids,Boys (4+),Top & T-shirts
+Kids,Boys 0-24 Mos,Accessories
+Kids,Boys 0-24 Mos,Bottoms
+Kids,Boys 0-24 Mos,Coats & Jackets
+Kids,Boys 0-24 Mos,One-Pieces
+Kids,Boys 0-24 Mos,Other
+Kids,Boys 0-24 Mos,Shoes
+Kids,Boys 0-24 Mos,Swimwear
+Kids,Boys 0-24 Mos,Tops & T-Shirts
+Kids,Boys 2T-5T,Accessories
+Kids,Boys 2T-5T,Bottoms
+Kids,Boys 2T-5T,Coats & Jackets
+Kids,Boys 2T-5T,One-Pieces
+Kids,Boys 2T-5T,Other
+Kids,Boys 2T-5T,Shoes
+Kids,Boys 2T-5T,Swimwear
+Kids,Boys 2T-5T,Tops & T-Shirts
+Kids,Car Seats & Accessories,Accessories
+Kids,Car Seats & Accessories,Car Seats
+Kids,Car Seats & Accessories,Other
+Kids,Diapering,Changing Pads & Covers
+Kids,Diapering,Cloth Diapers
+Kids,Diapering,Diaper Bags
+Kids,Diapering,Diaper Pails & Refills
+Kids,Diapering,Disposable Diapers
+Kids,Diapering,Wipes & Holders
+Kids,Feeding,Bottle-Feeding
+Kids,Feeding,Breastfeeding
+Kids,Feeding,Gift Sets
+Kids,Feeding,Highchairs & Booster Seats
+Kids,Feeding,Other
+Kids,Feeding,Pacifiers & Accessories
+Kids,Feeding,Storage & Containers
+Kids,Gear,Activity Centers & Entertainers
+Kids,Gear,Baby Gyms & Playmats
+Kids,Gear,Baby Seats
+Kids,Gear,Backpacks & Carriers
+Kids,Gear,Other
+Kids,Gear,Playards
+Kids,Gear,Shopping Cart Covers
+Kids,Gear,"Swings, Jumpers & Bouncers"
+Kids,Gear,Travel Beds
+Kids,Gear,Walkers
+Kids,Girls (4+),Accessories
+Kids,Girls (4+),Coats & Jackets
+Kids,Girls (4+),Dresses
+Kids,Girls (4+),Jeans
+Kids,Girls (4+),Other
+Kids,Girls (4+),Shoes
+Kids,Girls (4+),Swimwear
+Kids,Girls (4+),Tops & T-Shirts
+Kids,Girls 0-24 Mos,Accessories
+Kids,Girls 0-24 Mos,Bottoms
+Kids,Girls 0-24 Mos,Coats & Jackets
+Kids,Girls 0-24 Mos,Dresses
+Kids,Girls 0-24 Mos,One-Pieces
+Kids,Girls 0-24 Mos,Other
+Kids,Girls 0-24 Mos,Shoes
+Kids,Girls 0-24 Mos,Swimwear
+Kids,Girls 0-24 Mos,Tops & T-Shirts
+Kids,Girls 2T-5T,Accessories
+Kids,Girls 2T-5T,Bottoms
+Kids,Girls 2T-5T,Coats & Jackets
+Kids,Girls 2T-5T,Dresses
+Kids,Girls 2T-5T,One-Pieces
+Kids,Girls 2T-5T,Other
+Kids,Girls 2T-5T,Shoes
+Kids,Girls 2T-5T,Swimwear
+Kids,Girls 2T-5T,Tops & T-Shirts
+Kids,Health & Baby Care,Humidifiers & Vaporizers
+Kids,Health & Baby Care,Nasal Aspirators
+Kids,Health & Baby Care,Other
+Kids,Health & Baby Care,Sun Protection
+Kids,Health & Baby Care,Teethers
+Kids,Health & Baby Care,Teething Relief
+Kids,Health & Baby Care,Thermometers
+Kids,Health & Baby Care,Toothbrushes
+Kids,Nursery,Bedding
+Kids,Nursery,Nursery Décor
+Kids,Nursery,Other
+Kids,Other,Other
+Kids,Potty Training,Potties & Seats
+Kids,Potty Training,Training Pants
+Kids,Pregnancy & Maternity,Breastfeeding Pillows & Stools
+Kids,Pregnancy & Maternity,Family Planning Tests
+Kids,Pregnancy & Maternity,Prenatal Monitoring Devices
+Kids,Safety,Cabinet Locks & Straps
+Kids,Safety,Electrical Safety
+Kids,Safety,Gates & Doorways
+Kids,Safety,Harnesses & Leashes
+Kids,Safety,Kitchen Safety
+Kids,Safety,Monitors
+Kids,Safety,Other
+Kids,Safety,Outdoor Safety
+Kids,Strollers,Accessories
+Kids,Strollers,Prams
+Kids,Strollers,Travel Systems
+Kids,Toys,Action Figures & Statues
+Kids,Toys,Arts & Crafts
+Kids,Toys,Baby & Toddler Toys
+Kids,Toys,Building Toys
+Kids,Toys,Dolls & Accessories
+Kids,Toys,Dress Up & Pretend Play
+Kids,Toys,Electronics for Kids
+Kids,Toys,Games
+Kids,Toys,Hobbies
+Kids,Toys,"Kids' Furniture, Décor & Storage"
+Kids,Toys,Learning & Education
+Kids,Toys,Novelty & Gag Toys
+Kids,Toys,Other
+Kids,Toys,Party Supplies
+Kids,Toys,Puzzles
+Kids,Toys,Sports & Outdoor Play
+Kids,Toys,Stuffed Animals & Plush
+Kids,Toys,Toy Remote Control & Play Vehicles
+Kids,Toys,"Tricycles, Scooters & Wagons"
+Men,Athletic Apparel,Jackets
+Men,Athletic Apparel,Jerseys
+Men,Athletic Apparel,Other
+Men,Athletic Apparel,Pants
+Men,Athletic Apparel,Shirts & Tops
+Men,Athletic Apparel,Shorts
+Men,Athletic Apparel,Snowsuits & Bibs
+Men,Athletic Apparel,Socks
+Men,Athletic Apparel,Tracksuits & Sweats
+Men,Athletic Apparel,Vests
+Men,Blazers & Sport Coats,Other
+Men,Blazers & Sport Coats,Two Button
+Men,Coats & Jackets,Fleece Jacket
+Men,Coats & Jackets,Flight/Bomber
+Men,Coats & Jackets,Jean Jacket
+Men,Coats & Jackets,Military
+Men,Coats & Jackets,Motorcycle
+Men,Coats & Jackets,Other
+Men,Coats & Jackets,Parka
+Men,Coats & Jackets,Peacoat
+Men,Coats & Jackets,Puffer
+Men,Coats & Jackets,Rainwear
+Men,Coats & Jackets,Trench
+Men,Coats & Jackets,Varsity/Baseball
+Men,Coats & Jackets,Vest
+Men,Coats & Jackets,Windbreaker
+Men,Coats & Jackets,Wool
+Men,Jeans,"Baggy, Loose"
+Men,Jeans,Boot Cut
+Men,Jeans,Cargo
+Men,Jeans,Carpenter
+Men,Jeans,"Classic, Straight Leg"
+Men,Jeans,Other
+Men,Jeans,Relaxed
+Men,Jeans,"Slim, Skinny"
+Men,Men's Accessories,"Backpacks, Bags & Briefcases"
+Men,Men's Accessories,Belts
+Men,Men's Accessories,Hats
+Men,Men's Accessories,Other
+Men,Men's Accessories,Sunglasses
+Men,Men's Accessories,Ties
+Men,Men's Accessories,Wallets
+Men,Men's Accessories,Watches
+Men,Other,Other
+Men,Pants,Cargo
+Men,Pants,Carpenter
+Men,Pants,Casual Pants
+Men,Pants,Dress - Flat Front
+Men,Pants,Dress - Pleat
+Men,Pants,"Khakis, Chinos"
+Men,Pants,Other
+Men,Shoes,Athletic
+Men,Shoes,Boots
+Men,Shoes,Fashion Sneakers
+Men,Shoes,Loafers & Slip-Ons
+Men,Shoes,Outdoor
+Men,Shoes,Oxfords
+Men,Shoes,Sandals
+Men,Shoes,Slippers
+Men,Shoes,Work & Safety
+Men,Shorts,Athletic
+Men,Shorts,"Board, Surf"
+Men,Shorts,Cargo
+Men,Shorts,Casual Shorts
+Men,Shorts,Denim
+Men,Shorts,"Khakis, Chinos"
+Men,Shorts,Other
+Men,Suits,Other
+Men,Suits,Three Button
+Men,Suits,Two Button
+Men,Sweaters,Cardigan
+Men,Sweaters,Crewneck
+Men,Sweaters,Full Zip
+Men,Sweaters,Other
+Men,Sweaters,Polo
+Men,Sweaters,V-Neck
+Men,Sweaters,Vest
+Men,Sweats & Hoodies,Hoodie
+Men,Sweats & Hoodies,Other
+Men,Sweats & Hoodies,"Sweatshirt, Pullover"
+Men,Sweats & Hoodies,Track & Sweat Pants
+Men,Sweats & Hoodies,Track & Sweat Suits
+Men,Sweats & Hoodies,Track Jacket
+Men,Swimwear,Board Shorts
+Men,Swimwear,Swim Briefs
+Men,Swimwear,Swim Trunks
+Men,Tops,Button-Front
+Men,Tops,Dress Shirts
+Men,Tops,Hawaiian
+Men,Tops,Henley
+Men,Tops,Other
+Men,Tops,"Polo, Rugby"
+Men,Tops,T-shirts
+Men,Tops,Tank
+Other,Automotive,Automotive Enthusiast Merchandise
+Other,Automotive,Car Electronics & Accessories
+Other,Automotive,Exterior Accessories
+Other,Automotive,Interior Accessories
+Other,Automotive,Lights & Lighting Accessories
+Other,Automotive,Motorcycle & Powersports
+Other,Automotive,Other
+Other,Automotive,Replacement Parts
+Other,Automotive,Tires & Wheels
+Other,Automotive,Tools & Equipment
+Other,Books,Arts & Photography
+Other,Books,Biographies & Memoirs
+Other,Books,Business & Money
+Other,Books,Children's Books
+Other,Books,Christian Books & Bibles
+Other,Books,Education & Teaching
+Other,Books,History
+Other,Books,Literature & Fiction
+Other,Books,Medical Books
+Other,Books,Other
+Other,Books,Politics & Social Sciences
+Other,Books,Reference
+Other,Books,Religion & Spirituality
+Other,Books,Science & Math
+Other,Daily & Travel items,Baby & Child Care
+Other,Daily & Travel items,Health Care
+Other,Daily & Travel items,Household Supplies
+Other,Daily & Travel items,Medical Supplies & Equipment
+Other,Daily & Travel items,Other
+Other,Daily & Travel items,Personal Care
+Other,Daily & Travel items,Sports Nutrition
+Other,Daily & Travel items,Stationery & Party Supplies
+Other,Magazines,Lifestyle & Cultures
+Other,Magazines,Other
+Other,Musical instruments,Amplifiers & Effects
+Other,Musical instruments,Brass Instruments
+Other,Musical instruments,"DJ, Electronic Music & Karaoke"
+Other,Musical instruments,Drums & Percussion
+Other,Musical instruments,Guitars
+Other,Musical instruments,Instrument Accessories
+Other,Musical instruments,Keyboards
+Other,Musical instruments,Live Sound & Stage
+Other,Musical instruments,Microphones & Accessories
+Other,Musical instruments,Stringed Instruments
+Other,Musical instruments,Studio Recording Equipment
+Other,Musical instruments,Wind & Woodwind Instruments
+Other,Office supplies,Basic Supplies
+Other,Office supplies,Calendars
+Other,Office supplies,Electronics
+Other,Office supplies,Ink & Toner
+Other,Office supplies,Organization
+Other,Office supplies,Other
+Other,Office supplies,Paper
+Other,Office supplies,School Supplies
+Other,Office supplies,Shipping Supplies
+Other,Office supplies,Writing
+Other,Other,Other
+Other,Pet Supplies,Cage
+Other,Pet Supplies,Dogs
+Other,Pet Supplies,Others
+Sports & Outdoors,Apparel,Accessories
+Sports & Outdoors,Apparel,Boys
+Sports & Outdoors,Apparel,Girls
+Sports & Outdoors,Apparel,Men
+Sports & Outdoors,Apparel,Women
+Sports & Outdoors,Exercise,Athletic Training
+Sports & Outdoors,Exercise,Boxing & MMA
+Sports & Outdoors,Exercise,Dance/Ballet
+Sports & Outdoors,Exercise,Fitness accessories
+Sports & Outdoors,Exercise,Fitness technology
+Sports & Outdoors,Exercise,Other
+Sports & Outdoors,Exercise,Strength training
+Sports & Outdoors,Exercise,Yoga & Pilates
+Sports & Outdoors,Fan Shop,MLB
+Sports & Outdoors,Fan Shop,NBA
+Sports & Outdoors,Fan Shop,NCAA
+Sports & Outdoors,Fan Shop,NFL
+Sports & Outdoors,Fan Shop,NHL
+Sports & Outdoors,Fan Shop,Other
+Sports & Outdoors,Footwear,Cleats
+Sports & Outdoors,Footwear,Other
+Sports & Outdoors,Golf,Golf Apparel
+Sports & Outdoors,Golf,Golf Balls
+Sports & Outdoors,Golf,Golf Shoes
+Sports & Outdoors,Golf,Men's Golf Clubs
+Sports & Outdoors,Golf,Other
+Sports & Outdoors,Golf,Women's Golf Clubs
+Sports & Outdoors,Other,Other
+Sports & Outdoors,Outdoors,Bike & Skate
+Sports & Outdoors,Outdoors,Fishing
+Sports & Outdoors,Outdoors,Hiking & Camping
+Sports & Outdoors,Outdoors,Indoor/Outdoor Games
+Sports & Outdoors,Outdoors,Other
+Sports & Outdoors,Outdoors,Skateboard
+Sports & Outdoors,Outdoors,Snowboard
+Sports & Outdoors,Outdoors,Water Sports
+Sports & Outdoors,Team Sports,All Other Sports
+Sports & Outdoors,Team Sports,Baseball & Softball
+Sports & Outdoors,Team Sports,Basketball
+Sports & Outdoors,Team Sports,Football
+Sports & Outdoors,Team Sports,Hockey
+Sports & Outdoors,Team Sports,Lacrosse
+Sports & Outdoors,Team Sports,Soccer
+Sports & Outdoors,Team Sports,Tennis & Racquets
+Sports & Outdoors,Team Sports,Volleyball
+Vintage & Collectibles,Accessories,Brooch
+Vintage & Collectibles,Accessories,Buckle
+Vintage & Collectibles,Accessories,Cuff Links
+Vintage & Collectibles,Accessories,Eyewear
+Vintage & Collectibles,Accessories,Hat
+Vintage & Collectibles,Accessories,Keychain
+Vintage & Collectibles,Accessories,Other
+Vintage & Collectibles,Accessories,Scarf
+Vintage & Collectibles,Accessories,Shoes
+Vintage & Collectibles,Accessories,Wallet
+Vintage & Collectibles,Antique,100 Years or Older
+Vintage & Collectibles,Antique,50 To 75 Years
+Vintage & Collectibles,Antique,75 To 100 Years
+Vintage & Collectibles,Antique,Accessories
+Vintage & Collectibles,Antique,Bags and Purses
+Vintage & Collectibles,Antique,Book
+Vintage & Collectibles,Antique,Collectibles
+Vintage & Collectibles,Antique,Electronics
+Vintage & Collectibles,Antique,Furniture
+Vintage & Collectibles,Antique,Home Decor
+Vintage & Collectibles,Antique,Jewelry
+Vintage & Collectibles,Antique,Other
+Vintage & Collectibles,Bags and Purses,Change Purse
+Vintage & Collectibles,Bags and Purses,Clutch
+Vintage & Collectibles,Bags and Purses,Formal
+Vintage & Collectibles,Bags and Purses,Handbag
+Vintage & Collectibles,Bags and Purses,Leather
+Vintage & Collectibles,Bags and Purses,Luggage
+Vintage & Collectibles,Bags and Purses,Other
+Vintage & Collectibles,Bags and Purses,Pouch
+Vintage & Collectibles,Bags and Purses,Purse
+Vintage & Collectibles,Bags and Purses,Tote
+Vintage & Collectibles,Bags and Purses,Wallet
+Vintage & Collectibles,Book,Art
+Vintage & Collectibles,Book,Biography
+Vintage & Collectibles,Book,Children
+Vintage & Collectibles,Book,Comics
+Vintage & Collectibles,Book,Cookbook
+Vintage & Collectibles,Book,Crafting
+Vintage & Collectibles,Book,Fiction
+Vintage & Collectibles,Book,Health
+Vintage & Collectibles,Book,How to
+Vintage & Collectibles,Book,Illustrated
+Vintage & Collectibles,Book,Instructional
+Vintage & Collectibles,Book,Nonfiction
+Vintage & Collectibles,Book,Other
+Vintage & Collectibles,Book,Poetry
+Vintage & Collectibles,Clothing,Baby
+Vintage & Collectibles,Clothing,Blouse
+Vintage & Collectibles,Clothing,Children
+Vintage & Collectibles,Clothing,Dress
+Vintage & Collectibles,Clothing,Jacket
+Vintage & Collectibles,Clothing,Other
+Vintage & Collectibles,Clothing,Outerwear
+Vintage & Collectibles,Clothing,Pants
+Vintage & Collectibles,Clothing,Shawl
+Vintage & Collectibles,Clothing,Shirt
+Vintage & Collectibles,Clothing,Shorts
+Vintage & Collectibles,Clothing,Sweater
+Vintage & Collectibles,Clothing,Swimwear
+Vintage & Collectibles,Clothing,Tank
+Vintage & Collectibles,Clothing,Tshirt
+Vintage & Collectibles,Collectibles,Doll
+Vintage & Collectibles,Collectibles,Figurine
+Vintage & Collectibles,Collectibles,Glass
+Vintage & Collectibles,Collectibles,Other
+Vintage & Collectibles,Collectibles,Porcelain
+Vintage & Collectibles,Collectibles,Souvenir
+Vintage & Collectibles,Electronics,Camera
+Vintage & Collectibles,Electronics,Clock
+Vintage & Collectibles,Electronics,Game
+Vintage & Collectibles,Electronics,Other
+Vintage & Collectibles,Electronics,Radio
+Vintage & Collectibles,Electronics,Telephone
+Vintage & Collectibles,Electronics,Video Game
+Vintage & Collectibles,Furniture,Storage
+Vintage & Collectibles,Home Decor,Box
+Vintage & Collectibles,Home Decor,Candle Holder
+Vintage & Collectibles,Home Decor,Frame
+Vintage & Collectibles,Home Decor,Lighting
+Vintage & Collectibles,Home Decor,Other
+Vintage & Collectibles,Home Decor,Pillow
+Vintage & Collectibles,Home Decor,Planter
+Vintage & Collectibles,Home Decor,Tray
+Vintage & Collectibles,Home Decor,Wall Hanging
+Vintage & Collectibles,Housewares,Bowl
+Vintage & Collectibles,Housewares,Ceramic
+Vintage & Collectibles,Housewares,Coaster
+Vintage & Collectibles,Housewares,Cup
+Vintage & Collectibles,Housewares,Glass
+Vintage & Collectibles,Housewares,Other
+Vintage & Collectibles,Housewares,Plate
+Vintage & Collectibles,Housewares,Pot Holder
+Vintage & Collectibles,Jewelry,Bracelet
+Vintage & Collectibles,Jewelry,Brooch
+Vintage & Collectibles,Jewelry,Earrings
+Vintage & Collectibles,Jewelry,Necklace
+Vintage & Collectibles,Jewelry,Other
+Vintage & Collectibles,Jewelry,Pendant
+Vintage & Collectibles,Jewelry,Ring
+Vintage & Collectibles,Jewelry,Watch
+Vintage & Collectibles,Other,Other
+Vintage & Collectibles,Paper Ephemera,Stamps
+Vintage & Collectibles,Serving,Casserole
+Vintage & Collectibles,Serving,Cream and Sugar Set
+Vintage & Collectibles,Serving,Dinnerware Set
+Vintage & Collectibles,Serving,Glassware
+Vintage & Collectibles,Serving,Mug
+Vintage & Collectibles,Serving,Plate
+Vintage & Collectibles,Serving,Salt and Pepper Shakers
+Vintage & Collectibles,Serving,Teacup
+Vintage & Collectibles,Serving,Teapot
+Vintage & Collectibles,Serving,Tumbler
+Vintage & Collectibles,Supplies,Bead
+Vintage & Collectibles,Supplies,Button
+Vintage & Collectibles,Supplies,Charm
+Vintage & Collectibles,Supplies,Fabric
+Vintage & Collectibles,Supplies,Other
+Vintage & Collectibles,Supplies,Pattern
+Vintage & Collectibles,Supplies,Yarn
+Vintage & Collectibles,Toy,Action Figure
+Vintage & Collectibles,Toy,Animal
+Vintage & Collectibles,Toy,Block
+Vintage & Collectibles,Toy,Car
+Vintage & Collectibles,Toy,Children
+Vintage & Collectibles,Toy,Doll
+Vintage & Collectibles,Toy,Electronic
+Vintage & Collectibles,Toy,Game
+Vintage & Collectibles,Toy,Other
+Vintage & Collectibles,Toy,Puzzle
+Vintage & Collectibles,Trading Cards,"Action, Adventure"
+Vintage & Collectibles,Trading Cards,Animation
+Vintage & Collectibles,Trading Cards,Other
+Vintage & Collectibles,Trading Cards,"Sci-Fi, Fantasy"
+Vintage & Collectibles,Trading Cards,Sports
+Vintage & Collectibles,Trading Cards,Vintage
+Women,Athletic Apparel,Jackets
+Women,Athletic Apparel,Jerseys
+Women,Athletic Apparel,Other
+Women,Athletic Apparel,"Pants, Tights, Leggings"
+Women,Athletic Apparel,Shirts & Tops
+Women,Athletic Apparel,Shorts
+Women,Athletic Apparel,"Skirts, Skorts & Dresses"
+Women,Athletic Apparel,Snowsuits & Bibs
+Women,Athletic Apparel,Socks
+Women,Athletic Apparel,Sports Bras
+Women,Athletic Apparel,Tracksuits & Sweats
+Women,Athletic Apparel,Vests
+Women,Coats & Jackets,Cape
+Women,Coats & Jackets,Fleece Jacket
+Women,Coats & Jackets,Jean Jacket
+Women,Coats & Jackets,Military
+Women,Coats & Jackets,Motorcycle
+Women,Coats & Jackets,Other
+Women,Coats & Jackets,Parka
+Women,Coats & Jackets,Peacoat
+Women,Coats & Jackets,Poncho
+Women,Coats & Jackets,Puffer
+Women,Coats & Jackets,Raincoat
+Women,Coats & Jackets,Trench
+Women,Coats & Jackets,Vest
+Women,Coats & Jackets,Windbreaker
+Women,Coats & Jackets,Wool
+Women,Dresses,"Above Knee, Mini"
+Women,Dresses,Asymmetrical Hem
+Women,Dresses,Full-Length
+Women,Dresses,Knee-Length
+Women,Dresses,Mid-Calf
+Women,Dresses,Other
+Women,Jeans,Boot Cut
+Women,Jeans,Boyfriend
+Women,Jeans,"Capri, Cropped"
+Women,Jeans,Flare
+Women,Jeans,Leggings
+Women,Jeans,Other
+Women,Jeans,Overalls
+Women,Jeans,Relaxed
+Women,Jeans,"Slim, Skinny"
+Women,Jeans,Straight Leg
+Women,Jeans,Wide Leg
+Women,Jewelry,Bracelets
+Women,Jewelry,Earrings
+Women,Jewelry,Necklaces
+Women,Jewelry,Rings
+Women,Maternity,Athletic Apparel
+Women,Maternity,Dresses
+Women,Maternity,Jeans
+Women,Maternity,Other
+Women,Maternity,Pants
+Women,Maternity,Skirts
+Women,Maternity,Sweaters
+Women,Maternity,Tops & Blouses
+Women,Other,Other
+Women,Pants,"Capris, Cropped"
+Women,Pants,Cargo
+Women,Pants,Casual Pants
+Women,Pants,Corduroys
+Women,Pants,Dress Pants
+Women,Pants,"Khakis, Chinos"
+Women,Pants,Leather
+Women,Pants,Linen
+Women,Pants,Other
+Women,Shoes,Athletic
+Women,Shoes,Boots
+Women,Shoes,Fashion Sneakers
+Women,Shoes,Flats
+Women,Shoes,Loafers & Slip-Ons
+Women,Shoes,Mules & Clogs
+Women,Shoes,Other
+Women,Shoes,Outdoor
+Women,Shoes,Oxfords
+Women,Shoes,Pumps
+Women,Shoes,Sandals
+Women,Shoes,Slippers
+Women,Shoes,Work & Safety
+Women,Skirts,A-Line
+Women,Skirts,Asymmetrical
+Women,Skirts,Bubble
+Women,Skirts,Full Skirt
+Women,Skirts,Maxi
+Women,Skirts,Mini
+Women,Skirts,Other
+Women,Skirts,Peasant
+Women,Skirts,Pleated
+Women,Skirts,"Straight, Pencil"
+Women,Suits & Blazers,Blazer
+Women,Suits & Blazers,Dress Suit
+Women,Suits & Blazers,Other
+Women,Suits & Blazers,Pant Suit
+Women,Suits & Blazers,Skirt Suit
+Women,Sweaters,Cardigan
+Women,Sweaters,Collared
+Women,Sweaters,Cowl Neck
+Women,Sweaters,Crewneck
+Women,Sweaters,Full Zip
+Women,Sweaters,Henley
+Women,Sweaters,Hooded
+Women,Sweaters,Other
+Women,Sweaters,Poncho
+Women,Sweaters,Scoop Neck
+Women,Sweaters,Shrug
+Women,Sweaters,Sweatercoat
+Women,Sweaters,Tunic
+Women,Sweaters,"Turtleneck, Mock"
+Women,Sweaters,V-Neck
+Women,Sweaters,"Vest, Sleeveless"
+Women,Sweaters,Wrap
+Women,Swimwear,Beach Accessories
+Women,Swimwear,Cover-Ups
+Women,Swimwear,One-Piece
+Women,Swimwear,Two-Piece
+Women,Tops & Blouses,Blouse
+Women,Tops & Blouses,Button Down Shirt
+Women,Tops & Blouses,Halter
+Women,Tops & Blouses,Knit Top
+Women,Tops & Blouses,Other
+Women,Tops & Blouses,Polo Shirt
+Women,Tops & Blouses,T-Shirts
+Women,Tops & Blouses,"Tank, Cami"
+Women,Tops & Blouses,Tunic
+Women,Tops & Blouses,Turtleneck
+Women,Tops & Blouses,Wrap
+Women,Underwear,Bras
+Women,Underwear,G-Strings & Thongs
+Women,Underwear,Other
+Women,Underwear,Panties
+Women,Underwear,Thermal Underwear
+Women,Women's Accessories,Belts
+Women,Women's Accessories,Hair Accessories
+Women,Women's Accessories,Hats
+Women,Women's Accessories,Other
+Women,Women's Accessories,Scarves & Wraps
+Women,Women's Accessories,Sunglasses
+Women,Women's Accessories,Wallets
+Women,Women's Accessories,Watches
+Women,Women's Handbags,Backpack Style
+Women,Women's Handbags,Baguette
+Women,Women's Handbags,Cosmetic Bags
+Women,Women's Handbags,Hobo
+Women,Women's Handbags,Messenger & Crossbody
+Women,Women's Handbags,Other
+Women,Women's Handbags,Satchel
+Women,Women's Handbags,Shoulder Bag
+Women,Women's Handbags,Totes & Shoppers

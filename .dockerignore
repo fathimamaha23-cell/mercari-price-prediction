@@ -1,0 +1,12 @@
+data/
+notebooks/
+tests/
+mlruns/
+mlflow.db
+.git/
+.gitignore
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+models/lgbm_pipeline.joblib
+models/lgbm_test_pred.npy

@@ -1,0 +1,21 @@
+{
+  "model_version": "v1",
+  "model": "LightGBM on sparse TF-IDF (name + description) + brand + category + numeric",
+  "target": "log1p(price); predictions converted back to USD with expm1",
+  "trained_on": "2026-10-19",
+  "train_rows": 79954,
+  "random_state": 42,
+  "test_metrics": {
+    "MAE": 11.335,
+    "RMSE": 28.3504,
+    "R2": 0.3522,
+    "RMSLE": 0.5063,
+    "R2_log": 0.5349
+  },
+  "library_versions": {
+    "scikit-learn": "1.9.1",
+    "lightgbm": "4.7.0",
+    "pandas": "3.0.6",
+    "numpy": "2.5.3"
+  }
+}
