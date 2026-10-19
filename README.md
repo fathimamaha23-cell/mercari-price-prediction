@@ -162,6 +162,9 @@ Run the tests from the project root directory:
 python -m pytest -v
 ```
 
+## Live demo
+Try the deployed application here:
+https://mercari-price-predicto.streamlit.app/
 ## Notes
 
 - Predicted prices are estimates and are not guaranteed selling prices.

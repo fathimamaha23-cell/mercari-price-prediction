@@ -2,7 +2,7 @@
   "model_version": "v1",
   "model": "LightGBM on sparse TF-IDF (name + description) + brand + category + numeric",
   "target": "log1p(price); predictions converted back to USD with expm1",
-  "trained_on": "2026-10-19",
+  "trained_on": "2026-10-20",
   "train_rows": 79954,
   "random_state": 42,
   "test_metrics": {
