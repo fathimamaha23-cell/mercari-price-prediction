@@ -119,29 +119,31 @@ The app expects the following files under `models/`:
 Do not remove these files unless you have confirmed the app no longer
 depends on them.
 
-## Notebooks
+### Running the Jupyter Notebooks
 
-The `notebooks/` folder contains the project's analysis and modelling
-workflow:
+The `notebooks/` folder contains the project's analysis and modelling workflow:
 
-1.  `01_EDA.ipynb` --- exploratory data analysis.
-2.  `02_Preprocessing_Feature_Engineering.ipynb` --- preprocessing and
-    feature engineering.
-3.  `03_Modeling_Tuning.ipynb` --- model training, evaluation, and
-    hyperparameter tuning.
+1. `01_EDA.ipynb` — exploratory data analysis.
+2. `02_Preprocessing_Feature_Engineering.ipynb` — preprocessing and feature engineering.
+3. `03_Modeling_Tuning.ipynb` — model training, evaluation, and hyperparameter tuning.
 
-To run the notebooks, install the additional notebook dependencies:
+**1. Install the additional notebook dependencies**
 
-``` powershell
-.\.venv\Scripts\python.exe -m pip install -r requirements-notebooks.txt
+```bash
+python -m pip install -r requirements-notebooks.txt
 ```
 
-Then start JupyterLab:
+**2. Start JupyterLab**
 
-``` powershell
-.\.venv\Scripts\python.exe -m jupyterlab
+```bash
+python -m jupyterlab
 ```
 
+**3. Open a notebook**
+
+Open the desired notebook from the `notebooks/` folder in JupyterLab.
+
+Make sure the required app and notebook dependencies are installed before running the notebooks.
 ## Dataset and Large Files
 
 The original training dataset is from the Kaggle Mercari Price
