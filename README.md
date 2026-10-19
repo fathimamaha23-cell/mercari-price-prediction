@@ -63,21 +63,6 @@ additional files required by your code and saved model.
 Open PowerShell or Command Prompt in the project root folder (the folder
 containing `requirements.txt`).
 
-### 1. Create a virtual environment
-
-``` powershell
-python -m venv .venv
-```
-
-### 2. Install the app requirements
-
-You can run the virtual environment's Python directly, without
-activating it:
-
-``` powershell
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
-```
-
 ### Run the Streamlit App
 
 **1. Install the required dependencies**
