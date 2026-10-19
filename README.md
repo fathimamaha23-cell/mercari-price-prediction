@@ -78,20 +78,27 @@ activating it:
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-### 3. Start the Streamlit app
+### Run the Streamlit App
 
-``` powershell
-.\.venv\Scripts\python.exe -m streamlit run app/app.py
+**1. Install the required dependencies**
+
+```bash
+python -m pip install -r requirements.txt
 ```
 
-Open the local address shown in the terminal, usually:
+**2. Start the app**
 
-``` text
-http://localhost:8501
+```bash
+python -m streamlit run app/app.py
 ```
 
-Keep the terminal open while using the app. Press `Ctrl+C` in the
-terminal to stop it.
+**3. Open the app**
+
+Open the local URL shown in the terminal, usually:
+
+`http://localhost:8501`
+
+Keep the terminal open while using the app.
 
 ## Using the App
 
