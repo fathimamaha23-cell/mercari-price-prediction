@@ -82,6 +82,8 @@ Open the local URL displayed in the terminal, usually:
 
 http://localhost:8501
 
+https://mercari-price-predicto.streamlit.app/
+
 Keep the terminal open while using the application.
 
 ## Using the App
